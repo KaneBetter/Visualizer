@@ -1,0 +1,21 @@
+.array-container {
+    position: relative;
+    /* top: 100px; */
+  }
+  
+.array-bar {
+  width: 3px;
+  display: inline-block;
+  margin: 1px;
+  vertical-align: top;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+}
+input {
+  width: 100px!important;
+  height: 10px!important;
+  position:relative;
+}
